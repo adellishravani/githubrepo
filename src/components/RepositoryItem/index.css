@@ -1,0 +1,18 @@
+.image {
+  height: 10%;
+  width: 10%;
+  border-radius: 3px;
+  margin-bottom: 3px;
+}
+.name {
+  color: brown;
+  font-size: 18px;
+}
+.logodiv {
+  display: flex;
+  flex-direction: row;
+}
+.logo {
+  height: 50px;
+  width: 50px;
+}

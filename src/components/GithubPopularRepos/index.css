@@ -1,0 +1,27 @@
+.popular {
+  color: black;
+  font-style: italic;
+  font-size: 30px;
+  font-weight: bold;
+}
+.btnsDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.btn {
+  padding: 5px;
+  color: black;
+  border-style: none;
+}
+.tabsList {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  margin: 3px;
+}
+.bg {
+  text-align: center;
+}

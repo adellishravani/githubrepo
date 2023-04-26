@@ -1,0 +1,12 @@
+.border {
+  padding: 5px;
+  margin-left: 4px;
+  border-style: none;
+  background-color: transparent;
+}
+.bordertabdesign {
+  border-radius: 2px;
+  border-color: rgb(22, 94, 153);
+  color: blue;
+  padding: 3px;
+}
